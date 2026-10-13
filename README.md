@@ -90,3 +90,9 @@ Run the program using:
 **Preksha MV**
 
 Computer Science Engineering Student
+
+## Projects
+
+### Student Grade Calculator
+
+Developed a Student Grade Calculator program to calculate students' grades based on their marks. This project helps me practice programming concepts and improve my problem-solving skills.
